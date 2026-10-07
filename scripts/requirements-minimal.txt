@@ -1,0 +1,6 @@
+anndata==0.12.16
+h5py==3.16.0
+numpy==2.4.6
+pandas==2.3.3
+matplotlib==3.10.9
+seaborn==0.13.2
